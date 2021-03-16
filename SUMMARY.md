@@ -12,5 +12,5 @@
 
 * [Dungeon Loot Profit Tracker](features/dungeon-loot-profit-tracker.md)
 * [Item List](features/item-list.md)
-* [Dungeon Map](features/untitled.md)
+* [Dungeon Map](features/dungeon-map.md)
 
