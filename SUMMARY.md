@@ -1,7 +1,12 @@
 # Table of contents
 
 * [NotEnoughUpdates](README.md)
-* [Getting Started](getting-started.md)
+* [Changelog](changelog.md)
+
+## Important
+
+* [Getting Started](important/getting-started.md)
+* [FAQ](important/faq.md)
 
 ## Features
 
